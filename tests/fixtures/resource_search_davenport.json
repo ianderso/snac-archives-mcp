@@ -1,0 +1,2324 @@
+{
+ "total": 10,
+ "results": [
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://www.worldcat.org/oclc/63938239",
+   "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:63938239</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-COO</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Davenport family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Davenport family papers, 1800-1941.</title>\n                  </titleInfo>\n                  <abstract>Correspondence, accounts, deeds, mortgages, tax statements, wills, bonds, stock certificates, bills, receipts, business and legal papers, maps, photographs, and movie films of the Davenport family of Angelica, Allegany County, New York and Bath, Steuben County, and of related Cameron, Waterman, French, and other families. Featured most prominently are Charles and Ira Davenport, and their agent, J. W. Waterman. The collection pertains chiefly to investments in lands in New York State, Illinois, Iowa, Kansas, Michigan, Minnesota, and Nebraska, to interests in mining, railway, mercantile, banking, and other business ventures, and to the settlement of family estates. Includes papers of the Davenport Home for Girls (also known as the Davenport Home for Female Orphan Children), Bath, New York, and the Bath Presbyterian Church. Topics include western and frontier land speculation and investment, family relations, the problems of amassing capital and absentee ownership, banking, land taxation, forestry, and other matters pertaining to land ownership and management. </abstract>\n                  <name>\n                     <namePart>Cornell University Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+   "title": "Davenport family papers, 1800-1941.",
+   "abstract": "Correspondence, accounts, deeds, mortgages, tax statements, wills, bonds, stock certificates, bills, receipts, business and legal papers, maps, photographs, and movie films of the Davenport family of Angelica, Allegany County, New York and Bath, Steuben County, and of related Cameron, Waterman, French, and other families. Featured most prominently are Charles and Ira Davenport, and their agent, J. W. Waterman. The collection pertains chiefly to investments in lands in New York State, Illinois, Iowa, Kansas, Michigan, Minnesota, and Nebraska, to interests in mining, railway, mercantile, banking, and other business ventures, and to the settlement of family estates. Includes papers of the Davenport Home for Girls (also known as the Davenport Home for Female Orphan Children), Bath, New York, and the Bath Presbyterian Church. Topics include western and frontier land speculation and investment, family relations, the problems of amassing capital and absentee ownership, banking, land taxation, forestry, and other matters pertaining to land ownership and management. ",
+   "extent": "41.2 cubic ft; 29 v.; 2 reels movie film; 3 oversize folders.",
+   "displayEntry": "Davenport family. Davenport family papers, 1800-1941.",
+   "originationNames": [
+    {
+     "dataType": "OriginationName",
+     "name": "Davenport family.",
+     "id": "10504944",
+     "version": "7906246"
+    }
+   ],
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6sc4v5v",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "Cornell University Library",
+      "preferenceScore": "99",
+      "id": "76765388",
+      "version": "11226005"
+     }
+    ],
+    "places": [
+     {
+      "dataType": "Place",
+      "original": "Cornell University Library",
+      "type": {
+       "id": "400242",
+       "term": "Address",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+       "type": "place_type"
+      },
+      "address": [
+       {
+        "dataType": "AddressLine",
+        "text": "201 Olin Library",
+        "order": "0",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76765393",
+        "version": "11226005"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Ithaca",
+        "order": "1",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76765394",
+        "version": "11226005"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US-NY",
+        "order": "2",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76765395",
+        "version": "11226005"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "14853-5301",
+        "order": "3",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76765396",
+        "version": "11226005"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US",
+        "order": "4",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76765397",
+        "version": "11226005"
+       }
+      ],
+      "geoplace": {
+       "id": "15986",
+       "name": "Cornell University Library",
+       "latitude": "42.4467000",
+       "longitude": "-76.4957000"
+      },
+      "confirmed": true,
+      "id": "76765392",
+      "version": "11226005"
+     }
+    ],
+    "id": "76765387",
+    "version": "11226008"
+   },
+   "id": "7906246",
+   "version": "7906246"
+  },
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://nwda.orbiscascade.org/ark:/80444/xv88243",
+   "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <unittitle>Davenport Family papers</unittitle>\n                  <unitid>Ax 242</unitid>\n                  <repository>\n                     <corpname>Special Collections and University Archives, University of Oregon Libraries</corpname>\n                     <address>\n                        <addressline>1299 University of Oregon</addressline>\n                        <addressline>Eugene, Oregon, 97403-1299</addressline>\n                        <addressline>(541) 346-3068</addressline>\n                        <addressline>spcarref@uoregon.edu</addressline>\n                     </address>\n                  </repository>\n                  <langmaterial>Collection materials are in <language>English</language>.</langmaterial>\n                  <container>1-6</container>\n                  <container>4</container>\n                  <container>1-3</container>\n                  <container>28 loose cartoons</container>\n                  <container>1 framed cartoon</container>\n                  <container>56 loose cartoons</container>\n                  <physdesc>\n                     <extent>6.0 linear feet</extent>\n                     <extent>10 containers, 85 oversize items</extent>\n                  </physdesc>\n                  <unitdate>1848-1966</unitdate>\n                  <abstract>Timothy Woodbridge (T.W.) Davenport (1826-1911) and his family left Ohio for Oregon in the early 1850s, settling in the upper Willamette Valley. T.W. Davenport was a farmer, surveyor, state representative, state senator, and special Indian agent at the Umatilla Agency in the 1860s. T.W. Davenport’s son, Homer Davenport (1867-1912) became the most highly paid political cartoonist of his time. He also traveled to the Ottoman Empire, returning with the first purebred Arabian horses in America. The Davenport Family Papers contain the personal papers of T.W. Davenport, Homer Davenport, and the Davenport family. The collection includes correspondence, essays, drawings, photographs, and newspaper clippings. Of note are the handwritten and typewritten memoirs of T.W. Davenport and original political cartoons by Homer Davenport.</abstract>\n                  <physloc>Homer Davenport oversize cartoons located in map cases. They are stored loose.</physloc>\n                  <physdesc>10 containers, 85 oversize items</physdesc>\n                  <origination>\n                     <persname>Davenport family</persname>\n                  </origination>\n               </did>\n            </objectXMLWrap>",
+   "title": "Davenport Family papers 1848-1966",
+   "abstract": "Timothy Woodbridge (T.W.) Davenport (1826-1911) and his family left Ohio for Oregon in the early 1850s, settling in the upper Willamette Valley. T.W. Davenport was a farmer, surveyor, state representative, state senator, and special Indian agent at the Umatilla Agency in the 1860s. T.W. Davenport’s son, Homer Davenport (1867-1912) became the most highly paid political cartoonist of his time. He also traveled to the Ottoman Empire, returning with the first purebred Arabian horses in America. The Davenport Family Papers contain the personal papers of T.W. Davenport, Homer Davenport, and the Davenport family. The collection includes correspondence, essays, drawings, photographs, and newspaper clippings. Of note are the handwritten and typewritten memoirs of T.W. Davenport and original political cartoons by Homer Davenport.",
+   "extent": "6.0 linear feet, 10 containers, 85 oversize items",
+   "displayEntry": "Davenport Family papers, 1848-1966",
+   "originationNames": [
+    {
+     "dataType": "OriginationName",
+     "name": "Davenport family",
+     "id": "11415389",
+     "version": "6380320"
+    }
+   ],
+   "languages": [
+    {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "id": "11415390",
+     "version": "6380320"
+    }
+   ],
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6b38j4d",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "University of Oregon Libraries. Special Collections and University Archives",
+      "preferenceScore": "99",
+      "id": "76796216",
+      "version": "11504968"
+     }
+    ],
+    "places": [
+     {
+      "dataType": "Place",
+      "original": "Special Collections and University Archives, University of Oregon Libraries",
+      "type": {
+       "id": "400242",
+       "term": "Address",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+       "type": "place_type"
+      },
+      "role": {
+       "id": "400625",
+       "term": "Work",
+       "type": "place_role"
+      },
+      "address": [
+       {
+        "dataType": "AddressLine",
+        "text": "1299 University of Oregon",
+        "order": "0",
+        "type": {
+         "id": "400244",
+         "term": "Street",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Street",
+         "type": "address_part"
+        },
+        "id": "76796219",
+        "version": "11504969"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Eugene",
+        "order": "1",
+        "type": {
+         "id": "400245",
+         "term": "City",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#City",
+         "type": "address_part"
+        },
+        "id": "85365070",
+        "version": "11504969"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Oregon",
+        "order": "2",
+        "type": {
+         "id": "400246",
+         "term": "State",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#State",
+         "type": "address_part"
+        },
+        "id": "85365071",
+        "version": "11504969"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "97403-1299",
+        "order": "3",
+        "type": {
+         "id": "400247",
+         "term": "PostalCode",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#PostalCode",
+         "type": "address_part"
+        },
+        "id": "85365072",
+        "version": "11504969"
+       }
+      ],
+      "geoplace": {
+       "id": "4113",
+       "uri": "http://www.geonames.org/5725846",
+       "name": "Eugene",
+       "latitude": "44.0520700",
+       "longitude": "-123.0867500",
+       "administrationCode": "OR",
+       "countryCode": "US"
+      },
+      "confirmed": true,
+      "id": "76796218",
+      "version": "11504969"
+     }
+    ],
+    "id": "76796215",
+    "version": "11504970"
+   },
+   "id": "6380320",
+   "version": "6380320"
+  },
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM00539.xml",
+   "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <unittitle>Davenport family\n\n\t\t  papers, <unitdate>1800-1941.</unitdate>\n                  </unittitle>\n                  <unitid>539</unitid>\n                  <origination>\n                     <persname/>\n                  </origination>\n                  <physdesc>41.2 cubic ft; 29\n\n\t\t  v.; 2 reels movie film; 3 oversize folders.</physdesc>\n                  <physdesc/>\n                  <repository>Division of Rare and Manuscript Collections, Cornell\n\n\t\t\t University Library</repository>\n                  <abstract>Correspondence, accounts, deeds, mortgages,\n\n\t\t  tax statements, wills, bonds, stock certificates, bills, receipts, business and\n\n\t\t  legal papers, maps, photographs, and movie films of the Davenport family of\n\n\t\t  Angelica, Allegany County, New York and Bath, Steuben County, and of related\n\n\t\t  Cameron, Waterman, French, and other families. Featured most prominently are\n\n\t\t  Charles and Ira Davenport, and their agent, J. W. Waterman. The collection\n\n\t\t  pertains chiefly to investments in lands in New York State, Illinois, Iowa,\n\n\t\t  Kansas, Michigan, Minnesota, and Nebraska, to interests in mining, railway,\n\n\t\t  mercantile, banking, and other business ventures, and to the settlement of\n\n\t\t  family estates. Includes papers of the Davenport Home for Girls (also known as\n\n\t\t  the Davenport Home for Female Orphan Children), Bath, New York, and the Bath\n\n\t\t  Presbyterian Church.</abstract>\n                  <langmaterial>Collection material in <language>English</language>\n                  </langmaterial>\n               </did>\n            </objectXMLWrap>",
+   "title": "Davenport family  papers, 1800-1941.",
+   "abstract": "Correspondence, accounts, deeds, mortgages,  tax statements, wills, bonds, stock certificates, bills, receipts, business and  legal papers, maps, photographs, and movie films of the Davenport family of  Angelica, Allegany County, New York and Bath, Steuben County, and of related  Cameron, Waterman, French, and other families. Featured most prominently are  Charles and Ira Davenport, and their agent, J. W. Waterman. The collection  pertains chiefly to investments in lands in New York State, Illinois, Iowa,  Kansas, Michigan, Minnesota, and Nebraska, to interests in mining, railway,  mercantile, banking, and other business ventures, and to the settlement of  family estates. Includes papers of the Davenport Home for Girls (also known as  the Davenport Home for Female Orphan Children), Bath, New York, and the Bath  Presbyterian Church.",
+   "displayEntry": "Davenport family papers, 1800-1941.",
+   "languages": [
+    {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "id": "11462431",
+     "version": "6400485"
+    }
+   ],
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6jj4bng",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "Division of Rare and Manuscript Collections, Cornell University Library.",
+      "preferenceScore": "99",
+      "id": "85519834",
+      "version": "11541887"
+     }
+    ],
+    "id": "85519832",
+    "version": "11541889"
+   },
+   "id": "6400485",
+   "version": "6400485"
+  },
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://rmc.library.cornell.edu/EAD/xml/dlxs/RMM01173.xml",
+   "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <unittitle>Davenport family papers, <unitdate>1800-1941.</unitdate>\n                  </unittitle>\n                  <unitid>1173</unitid>\n                  <physdesc>41.2 cubic ft; 29 v.; 2 reels movie film; 3 oversize folders.</physdesc>\n                  <physdesc>Correspondence, accounts, deeds, mortgages, tax statements, wills, bonds, stock certificates, bills, receipts, business and legal papers, maps, photographs, and movie films.</physdesc>\n                  <repository>Division of Rare and Manuscript Collections, Cornell University Library</repository>\n                  <abstract>The collection pertains chiefly to investments in lands in New York State, Illinois, Iowa, Kansas, Michigan, Minnesota, and Nebraska, to interests in mining, railway, mercantile, banking,\n\n\t\t  and other business ventures, and to the settlement of family estates.</abstract>\n                  <langmaterial>Collection material in <language>English</language>\n                  </langmaterial>\n               </did>\n            </objectXMLWrap>",
+   "title": "Davenport family papers, 1800-1941.",
+   "abstract": "The collection pertains chiefly to investments in lands in New York State, Illinois, Iowa, Kansas, Michigan, Minnesota, and Nebraska, to interests in mining, railway, mercantile, banking,  and other business ventures, and to the settlement of family estates.",
+   "displayEntry": "Davenport family papers, 1800-1941.",
+   "languages": [
+    {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "id": "11462495",
+     "version": "6400535"
+    }
+   ],
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6jj4bng",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "Division of Rare and Manuscript Collections, Cornell University Library.",
+      "preferenceScore": "99",
+      "id": "85519834",
+      "version": "11541887"
+     }
+    ],
+    "id": "85519832",
+    "version": "11541889"
+   },
+   "id": "6400535",
+   "version": "6400535"
+  },
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://www.worldcat.org/oclc/48211323",
+   "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:48211323</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-ORU</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Davenport family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Davenport family papers, 1848-1966.</title>\n                  </titleInfo>\n                  <abstract>Collection consists primarily of correspondence, memoirs, literary manuscripts, photographs, newspaper articles and original political cartoons. The first two series in the collection contain materials produced by or relating to T.W. (Timothy Woodbridge) Davenport and Homer Calvin Davenport, both influential in late nineteenth century state and federal politics. The T.W. Davenport Papers include documents relating to pioneer life in Oregon; the Homer Davenport material reflects his career as a political cartoonist and the breeding of Arabian horses. </abstract>\n                  <name>\n                     <namePart>University of Oregon Libraries</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+   "title": "Davenport family papers, 1848-1966.",
+   "abstract": "Collection consists primarily of correspondence, memoirs, literary manuscripts, photographs, newspaper articles and original political cartoons. The first two series in the collection contain materials produced by or relating to T.W. (Timothy Woodbridge) Davenport and Homer Calvin Davenport, both influential in late nineteenth century state and federal politics. The T.W. Davenport Papers include documents relating to pioneer life in Oregon; the Homer Davenport material reflects his career as a political cartoonist and the breeding of Arabian horses. ",
+   "extent": "6 linear ft. (18 containers)",
+   "displayEntry": "Davenport family. Davenport family papers, 1848-1966.",
+   "originationNames": [
+    {
+     "dataType": "OriginationName",
+     "name": "Davenport family.",
+     "id": "9859568",
+     "version": "7590908"
+    }
+   ],
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6qw4967",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "University of Oregon Libraries",
+      "preferenceScore": "99",
+      "id": "76787645",
+      "version": "11504962"
+     }
+    ],
+    "places": [
+     {
+      "dataType": "Place",
+      "original": "University of Oregon Libraries, UO Libraries",
+      "type": {
+       "id": "400242",
+       "term": "Address",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+       "type": "place_type"
+      },
+      "address": [
+       {
+        "dataType": "AddressLine",
+        "text": "1501 Kincaid Street",
+        "order": "0",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787650",
+        "version": "11234273"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "1299 University of Oregon",
+        "order": "1",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787651",
+        "version": "11234273"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Eugene",
+        "order": "2",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787652",
+        "version": "11234273"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US-OR",
+        "order": "3",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787653",
+        "version": "11234273"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "97403-1299",
+        "order": "4",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787654",
+        "version": "11234273"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US",
+        "order": "5",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787655",
+        "version": "11234273"
+       }
+      ],
+      "geoplace": {
+       "id": "16768",
+       "name": "University of Oregon Libraries, UO Libraries",
+       "latitude": "44.0360830",
+       "longitude": "-123.0524290"
+      },
+      "confirmed": true,
+      "id": "76787649",
+      "version": "11234273"
+     }
+    ],
+    "id": "76787644",
+    "version": "11504963"
+   },
+   "id": "7590908",
+   "version": "7590908"
+  },
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://www.worldcat.org/oclc/21072270",
+   "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:21072270</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-OSU</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Rankin, Peter D.,</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Davenport, E. L. (Edward Loomis), 1814-1877.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Davenport, Fanny, 1850-1898.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Davenport, Harry, 1866-1949.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Rankin, Phyllis.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Barrymore, Ethel, 1879-1959.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Duse, Eleanora, 1858-1924.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Booth, Edwin, 1833-1893.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <name>\n                     <namePart>Fitch, Clyde, 1865-1909.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Rankin-Davenport family papers, [ca. 1876]-1979.</title>\n                  </titleInfo>\n                  <name>\n                     <namePart>Ohio State University Libraries</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+   "title": "Rankin-Davenport family papers, [ca. 1876]-1979.",
+   "extent": "24 folders.",
+   "displayEntry": "Rankin, Peter D.,. Rankin-Davenport family papers, [ca. 1876]-1979.",
+   "originationNames": [
+    {
+     "dataType": "OriginationName",
+     "name": "Rankin, Peter D.,",
+     "id": "8887856",
+     "version": "7003163"
+    },
+    {
+     "dataType": "OriginationName",
+     "name": "Davenport, E. L. (Edward Loomis), 1814-1877.",
+     "id": "8887857",
+     "version": "7003163"
+    },
+    {
+     "dataType": "OriginationName",
+     "name": "Davenport, Fanny, 1850-1898.",
+     "id": "8887858",
+     "version": "7003163"
+    },
+    {
+     "dataType": "OriginationName",
+     "name": "Davenport, Harry, 1866-1949.",
+     "id": "8887859",
+     "version": "7003163"
+    },
+    {
+     "dataType": "OriginationName",
+     "name": "Rankin, Phyllis.",
+     "id": "8887860",
+     "version": "7003163"
+    },
+    {
+     "dataType": "OriginationName",
+     "name": "Barrymore, Ethel, 1879-1959.",
+     "id": "8887861",
+     "version": "7003163"
+    },
+    {
+     "dataType": "OriginationName",
+     "name": "Duse, Eleanora, 1858-1924.",
+     "id": "8887862",
+     "version": "7003163"
+    },
+    {
+     "dataType": "OriginationName",
+     "name": "Booth, Edwin, 1833-1893.",
+     "id": "8887863",
+     "version": "7003163"
+    },
+    {
+     "dataType": "OriginationName",
+     "name": "Fitch, Clyde, 1865-1909.",
+     "id": "8887864",
+     "version": "7003163"
+    }
+   ],
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6gn8wvq",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "Ohio State University Libraries",
+      "preferenceScore": "99",
+      "id": "76778503",
+      "version": "11230937"
+     }
+    ],
+    "places": [
+     {
+      "dataType": "Place",
+      "original": "Ohio State University Libraries",
+      "type": {
+       "id": "400242",
+       "term": "Address",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+       "type": "place_type"
+      },
+      "address": [
+       {
+        "dataType": "AddressLine",
+        "text": "1858 Neil Avenue",
+        "order": "0",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76778508",
+        "version": "11230937"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Columbus",
+        "order": "1",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76778509",
+        "version": "11230937"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US-OH",
+        "order": "2",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76778510",
+        "version": "11230937"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "43210",
+        "order": "3",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76778511",
+        "version": "11230937"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US",
+        "order": "4",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76778512",
+        "version": "11230937"
+       }
+      ],
+      "geoplace": {
+       "id": "16786",
+       "name": "Ohio State University Libraries",
+       "latitude": "39.9990845",
+       "longitude": "-83.0156784"
+      },
+      "confirmed": true,
+      "id": "76778507",
+      "version": "11230937"
+     }
+    ],
+    "id": "76778502",
+    "version": "11230940"
+   },
+   "id": "7003163",
+   "version": "7003163"
+  },
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://www.worldcat.org/oclc/226295610",
+   "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:226295610</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-NGB</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Davenport family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Davenport family papers, 1800-1857 and undated.</title>\n                  </titleInfo>\n                  <abstract>Deeds and indentures, 1800-1857, chiefly relating to land in Lincoln County, N.C., owned by William Davenport and his son Anderson W. Davenport. Also included is a short Davenport family history. </abstract>\n                  <name>\n                     <namePart>Oceanside Free Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+   "title": "Davenport family papers, 1800-1857 and undated.",
+   "abstract": "Deeds and indentures, 1800-1857, chiefly relating to land in Lincoln County, N.C., owned by William Davenport and his son Anderson W. Davenport. Also included is a short Davenport family history. ",
+   "extent": "15 items.",
+   "displayEntry": "Davenport family. Davenport family papers, 1800-1857 and undated.",
+   "originationNames": [
+    {
+     "dataType": "OriginationName",
+     "name": "Davenport family.",
+     "id": "8990801",
+     "version": "7079513"
+    }
+   ],
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6xj0ds0",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "University of North Carolina at Chapel Hill",
+      "preferenceScore": "99",
+      "id": "76787444",
+      "version": "11234205"
+     }
+    ],
+    "places": [
+     {
+      "dataType": "Place",
+      "original": "University of North Carolina at Chapel Hill",
+      "type": {
+       "id": "400242",
+       "term": "Address",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+       "type": "place_type"
+      },
+      "address": [
+       {
+        "dataType": "AddressLine",
+        "text": "Davis Library, CB#3914, 208 Raleigh St.",
+        "order": "0",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787449",
+        "version": "11234205"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Chapel Hill",
+        "order": "1",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787450",
+        "version": "11234205"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US-NC",
+        "order": "2",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787451",
+        "version": "11234205"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "27514-8890",
+        "order": "3",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787452",
+        "version": "11234205"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US",
+        "order": "4",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76787453",
+        "version": "11234205"
+       }
+      ],
+      "geoplace": {
+       "id": "15097",
+       "name": "University of North Carolina at Chapel Hill",
+       "latitude": "35.9369000",
+       "longitude": "-79.0397000"
+      },
+      "confirmed": true,
+      "id": "76787448",
+      "version": "11234205"
+     }
+    ],
+    "id": "76787443",
+    "version": "11363791"
+   },
+   "id": "7079513",
+   "version": "7079513"
+  },
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://dlib.nyu.edu/findingaids/html/bhs/arms_1977_345_davenport/arms_1977_345_davenport.html",
+   "source": "<objectXMLWrap>\n               <did xmlns=\"urn:isbn:1-931666-22-9\">\n                  <unittitle>Davenport family papers</unittitle>\n                  <unitid>1977.345</unitid>\n                  <repository>\n                     <corpname>Brooklyn Historical Society</corpname>\n                  </repository>\n                  <langmaterial>\n                     <language/>\n                  </langmaterial>\n                  <container>1977.345 1 of 1</container>\n                  <physdesc>\n                     <extent>0.42 Linear feet</extent>\n                     <extent>in one manuscript box.</extent>\n                  </physdesc>\n                  <unitdate>Bulk, 1840-1899</unitdate>\n                  <unitdate>1700-1915</unitdate>\n                  <langmaterial>Materials in English, with one folder of manuscripts in Dutch.</langmaterial>\n                  <origination>\n                     <famname>Davenport family</famname>\n                  </origination>\n                  <origination>\n                     <persname>Davenport, Amzi Benedict, 1817-1894</persname>\n                  </origination>\n                  <origination>\n                     <persname>Davenport, Henry B.</persname>\n                  </origination>\n               </did>\n            </objectXMLWrap>",
+   "title": "Davenport family papers Bulk, 1840-1899 1700-1915",
+   "extent": "0.42 Linear feet; in one manuscript box.",
+   "displayEntry": "Davenport family papers, Bulk, 1840-1899, 1700-1915",
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6g845xm",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "Center for Brooklyn History (2020-)",
+      "preferenceScore": "99",
+      "id": "87981633",
+      "version": "12153089"
+     }
+    ],
+    "places": [
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481346",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn Heights (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481464",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Fort Totten (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481488",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Long Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481450",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481406",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Chicago (Ill.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481444",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Prospect Park (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481436",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481404",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (State)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481438",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn Historical Society",
+      "type": {
+       "id": "400242",
+       "term": "Address",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+       "type": "place_type"
+      },
+      "address": [
+       {
+        "dataType": "AddressLine",
+        "text": "128 Pierrepont St.  Brooklyn, New York 11201  United States",
+        "order": "0",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87481491",
+        "version": "12020462"
+       }
+      ],
+      "id": "87481490",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Suffolk County (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481418",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481394",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn Bridge (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481472",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481378",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481372",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481364",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481358",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Staten Island (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481432",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481334",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Long Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481476",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Bronx (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481340",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481348",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Long Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481470",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481484",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Coney Island (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481478",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481408",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Coney Island (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481374",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "National Prohibition Park (Staten Island, New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481446",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "United States",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481344",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (State)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481332",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481456",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481320",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "United States",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481330",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481376",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Flushing Meadow Park (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481486",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (State)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481350",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "United States",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481424",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Nassau County (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481362",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens Botanical Gardens (New York, N.Y)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481422",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New England",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481458",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481402",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn Heights (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481338",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481460",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn Navy Yard",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481448",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Manhattan (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481414",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481400",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481388",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Mammoth Cave National Park (Ky.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481360",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "United States",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481480",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (State)--New York",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481328",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (State)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481440",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Long Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481416",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Saratoga (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481410",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481370",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "United States",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481412",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481390",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Minnesota",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481342",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Washington (D.C.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481392",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Long Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481352",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Great Britain",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481366",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Manhattan (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481420",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Fire Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481354",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Long Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481434",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481482",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481468",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Prospect Park (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481462",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Long Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481386",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481430",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Prospect Park (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481356",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Queens (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481322",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Flatbush (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481398",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Wollman Memorial Park (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481336",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481474",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Albany (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481428",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481380",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481324",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481368",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Long Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481442",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481326",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481452",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481384",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Europe",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481382",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (State)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481396",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn (New York, N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481318",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Brooklyn Historical Society",
+      "type": {
+       "id": "400242",
+       "term": "Address",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+       "type": "place_type"
+      },
+      "address": [
+       {
+        "dataType": "AddressLine",
+        "text": "128 Pierrepont St",
+        "order": "0",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87481493",
+        "version": "12020462"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Brooklyn",
+        "order": "1",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87481494",
+        "version": "12020462"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US-NY",
+        "order": "2",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87481495",
+        "version": "12020462"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "11201",
+        "order": "3",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87481496",
+        "version": "12020462"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US",
+        "order": "4",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87481497",
+        "version": "12020462"
+       }
+      ],
+      "geoplace": {
+       "id": "15071",
+       "name": "Brooklyn Historical Society",
+       "latitude": "40.6948000",
+       "longitude": "-73.9924000"
+      },
+      "confirmed": true,
+      "id": "87481492",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "New York (State)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481454",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Long Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481426",
+      "version": "12020462"
+     },
+     {
+      "dataType": "Place",
+      "original": "Shelter Island (N.Y.)",
+      "type": {
+       "id": "705",
+       "term": "AssociatedPlace",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+       "type": "place_type"
+      },
+      "id": "87481466",
+      "version": "12020462"
+     }
+    ],
+    "id": "87481297",
+    "version": "12153267"
+   },
+   "id": "6329537",
+   "version": "6329537"
+  },
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://www.worldcat.org/oclc/155437078",
+   "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:155437078</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-NYHVD</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>William D. Davenport.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>William D. Davenport. Family Papers, 1840(ca.)-1934.</title>\n                  </titleInfo>\n                  <abstract>Miscellaneous papers of William D. Davenport, of Tracy Creek, New York, including family correspondence and legal documents, c.1840-1934; postal papers, 1864-1884; and local clippings and newspapers, c.1870- 1913. Also a set of photocopied letters from Davenport to the editors of the Union News, Union, New York, concerning his travels in France and other European countries; also a scrapbook of clippings of those letters, 1891-1892. </abstract>\n                  <name>\n                     <namePart>New York State Historical Documents</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+   "title": "William D. Davenport. Family Papers, 1840(ca.)-1934.",
+   "abstract": "Miscellaneous papers of William D. Davenport, of Tracy Creek, New York, including family correspondence and legal documents, c.1840-1934; postal papers, 1864-1884; and local clippings and newspapers, c.1870- 1913. Also a set of photocopied letters from Davenport to the editors of the Union News, Union, New York, concerning his travels in France and other European countries; also a scrapbook of clippings of those letters, 1891-1892. ",
+   "extent": "2.5 cubic ft. (ca.)",
+   "displayEntry": "William D. Davenport. William D. Davenport. Family Papers, 1840(ca.)-1934.",
+   "originationNames": [
+    {
+     "dataType": "OriginationName",
+     "name": "William D. Davenport.",
+     "id": "8701873",
+     "version": "6868645"
+    }
+   ],
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6rk571r",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "New York State Historical Documents Inventory",
+      "preferenceScore": "99",
+      "id": "76777477",
+      "version": "12168724"
+     }
+    ],
+    "places": [
+     {
+      "dataType": "Place",
+      "original": "New York State Historical Documents",
+      "type": {
+       "id": "400242",
+       "term": "Address",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+       "type": "place_type"
+      },
+      "address": [
+       {
+        "dataType": "AddressLine",
+        "text": "Cultural Education Center",
+        "order": "0",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76777481",
+        "version": "11230557"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Empire State Plaza",
+        "order": "1",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76777482",
+        "version": "11230557"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Albany",
+        "order": "2",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76777483",
+        "version": "11230557"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US-NY",
+        "order": "3",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76777484",
+        "version": "11230557"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "12230",
+        "order": "4",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76777485",
+        "version": "11230557"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US",
+        "order": "5",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "76777486",
+        "version": "11230557"
+       }
+      ],
+      "geoplace": {
+       "id": "15204",
+       "name": "New York State Historical Documents",
+       "latitude": "42.6514550",
+       "longitude": "-73.7552740"
+      },
+      "confirmed": true,
+      "id": "76777480",
+      "version": "11230557"
+     }
+    ],
+    "id": "76777476",
+    "version": "12168728"
+   },
+   "id": "6868645",
+   "version": "6868645"
+  },
+  {
+   "dataType": "Resource",
+   "documentType": {
+    "id": "696",
+    "term": "ArchivalResource",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+    "type": "document_type"
+   },
+   "link": "http://www.worldcat.org/oclc/84666687",
+   "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:84666687</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-DLH</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Davenport family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Papers, 1707-1869.</title>\n                  </titleInfo>\n                  <abstract>This collection contains 83 documents of the Davenport family.  Papers included are from Ebenezer (1661-1738), Ebenezer (1706-1785), Ebenezer (1745-1819), James (1759-1824), James (1796-1852), Isaac (1786-ca. 1818), Patience, Josiah (d. ca. 1820), and Samuel (d. 1802).  The majority of these papers are legal documents including wills, land deeds, transfers of power of attorney, execution of will statements, and inventories of estates.  Other documents record settlement of finances, receipts for goods, indenture contracts, and invoices.  One item documents the family history of James (1759-1824) and Esther. </abstract>\n                  <name>\n                     <namePart>Winterthur Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+   "title": "Papers, 1707-1869.",
+   "abstract": "This collection contains 83 documents of the Davenport family.  Papers included are from Ebenezer (1661-1738), Ebenezer (1706-1785), Ebenezer (1745-1819), James (1759-1824), James (1796-1852), Isaac (1786-ca. 1818), Patience, Josiah (d. ca. 1820), and Samuel (d. 1802).  The majority of these papers are legal documents including wills, land deeds, transfers of power of attorney, execution of will statements, and inventories of estates.  Other documents record settlement of finances, receipts for goods, indenture contracts, and invoices.  One item documents the family history of James (1759-1824) and Esther. ",
+   "extent": "83 items (1 box) ; 24cm.",
+   "displayEntry": "Davenport family. Papers, 1707-1869.",
+   "originationNames": [
+    {
+     "dataType": "OriginationName",
+     "name": "Davenport family.",
+     "id": "11203611",
+     "version": "8325713"
+    }
+   ],
+   "repository": {
+    "dataType": "Constellation",
+    "ark": "http://n2t.net/ark:/99166/w6nh5h00",
+    "entityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "nameEntries": [
+     {
+      "dataType": "NameEntry",
+      "original": "Winterthur Library",
+      "preferenceScore": "99",
+      "id": "87525709",
+      "version": "12029117"
+     }
+    ],
+    "places": [
+     {
+      "dataType": "Place",
+      "original": "Winterthur Library",
+      "type": {
+       "id": "400242",
+       "term": "Address",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+       "type": "place_type"
+      },
+      "address": [
+       {
+        "dataType": "AddressLine",
+        "text": "Winterthur Library",
+        "order": "0",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87525729",
+        "version": "12029117"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "5105 Kennett Pike",
+        "order": "1",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87525730",
+        "version": "12029117"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "Winterthur",
+        "order": "2",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87525731",
+        "version": "12029117"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US-DE",
+        "order": "3",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87525732",
+        "version": "12029117"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "19735-0001",
+        "order": "4",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87525733",
+        "version": "12029117"
+       },
+       {
+        "dataType": "AddressLine",
+        "text": "US",
+        "order": "5",
+        "type": {
+         "id": "400243",
+         "term": "Unspecified",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+         "type": "address_part"
+        },
+        "id": "87525734",
+        "version": "12029117"
+       }
+      ],
+      "geoplace": {
+       "id": "16837",
+       "name": "Winterthur Library",
+       "latitude": "39.8043000",
+       "longitude": "-75.6115000"
+      },
+      "confirmed": true,
+      "id": "87525728",
+      "version": "12029117"
+     }
+    ],
+    "id": "87525706",
+    "version": "12029119"
+   },
+   "id": "8325713",
+   "version": "8325713"
+  }
+ ],
+ "pagination": 1,
+ "page": 0,
+ "timing": 316.6
+}

@@ -1,0 +1,120 @@
+{
+ "result": "success",
+ "maybesame_count": 0,
+ "constellation": {
+  "dataType": "Constellation",
+  "status": "editable",
+  "ark": "http://n2t.net/ark:/99166/w6wn08wd",
+  "entityType": {
+   "id": "699",
+   "term": "family",
+   "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+   "type": "entity_type"
+  },
+  "nameEntries": [
+   {
+    "dataType": "NameEntry",
+    "original": "Anderson family.",
+    "preferenceScore": "1",
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "Anderson family.",
+      "order": "0",
+      "type": {
+       "id": "400228",
+       "term": "Name",
+       "type": "name_component"
+      },
+      "id": "61583067",
+      "version": "9009344"
+     }
+    ],
+    "id": "61583066",
+    "version": "9009344"
+   }
+  ],
+  "biogHists": [
+   {
+    "dataType": "BiogHist",
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "script": {
+      "id": "586",
+      "term": "Latn",
+      "type": "script_code",
+      "description": "Latin"
+     },
+     "id": "61583063",
+     "version": "9009344"
+    },
+    "text": "<biogHist><p xmlns=\"urn:isbn:1-931666-33-4\">The Andersons, as well as their relatives including the Berry, Norwood, Burton, Thomes, Goodell, Hill, Codman, Smith, and Winship families, can trace their ancestory in Maine back to the early 18th century. Rev. Peter Thatcher Smith first built the Parson Smith House, located in Windham, Me., which then fell into the hands of the Andersons, whose son Edward Anderson married Smith's daughter, Lucy, ca. 1826. After this marriage, descendants of the Anderson family have lived in Bath, Lowell, Portland, and Newport, Me.</p>\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of Anderson family collection, ca. 1790-1942. (Maine Historical Society Library). WorldCat record id: 502156501</citation>\n         </biogHist>",
+    "id": "61583062",
+    "version": "9009344"
+   }
+  ],
+  "places": [
+   {
+    "dataType": "Place",
+    "original": "Maine--Windham",
+    "type": {
+     "id": "705",
+     "term": "AssociatedPlace",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+     "type": "place_type"
+    },
+    "id": "61583070",
+    "version": "9009344"
+   }
+  ],
+  "subjects": [
+   {
+    "dataType": "Subject",
+    "term": {
+     "id": "7558",
+     "term": "Women",
+     "type": "subject"
+    },
+    "id": "61583072",
+    "version": "9009344"
+   }
+  ],
+  "id": "61583061",
+  "version": "9009345",
+  "dates": [
+   {
+    "dataType": "SNACDate",
+    "fromDate": "1790",
+    "fromDateOriginal": "active approximately 1790",
+    "fromType": {
+     "id": "688",
+     "term": "Active",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+     "type": "date_type"
+    },
+    "fromRange": {
+     "notBefore": "1787",
+     "notAfter": "1793"
+    },
+    "toDate": "1942",
+    "toDateOriginal": "active 1942",
+    "toType": {
+     "id": "688",
+     "term": "Active",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+     "type": "date_type"
+    },
+    "isRange": true,
+    "id": "61583064",
+    "version": "9009344"
+   }
+  ]
+ },
+ "timing": 267.78
+}

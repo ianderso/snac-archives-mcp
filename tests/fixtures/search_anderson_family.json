@@ -1,0 +1,216 @@
+{
+ "total": 468,
+ "results": [
+  {
+   "dataType": "Constellation",
+   "ark": "http://n2t.net/ark:/99166/w65z1cbf",
+   "entityType": {
+    "id": "699",
+    "term": "family",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+    "type": "entity_type"
+   },
+   "nameEntries": [
+    {
+     "dataType": "NameEntry",
+     "original": "Anderson family.",
+     "preferenceScore": "1",
+     "id": "226835",
+     "version": "32888"
+    }
+   ],
+   "id": "226833",
+   "version": "32889",
+   "resource_count": "1"
+  },
+  {
+   "dataType": "Constellation",
+   "ark": "http://n2t.net/ark:/99166/w6wn08wd",
+   "entityType": {
+    "id": "699",
+    "term": "family",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+    "type": "entity_type"
+   },
+   "nameEntries": [
+    {
+     "dataType": "NameEntry",
+     "original": "Anderson family.",
+     "preferenceScore": "1",
+     "id": "61583066",
+     "version": "9009344"
+    }
+   ],
+   "biogHists": [
+    {
+     "dataType": "BiogHist",
+     "text": "<biogHist><p xmlns=\"urn:isbn:1-931666-33-4\">The Andersons, as well as their relatives including the Berry, Norwood, Burton, Thomes, Goodell, Hill, Codman, Smith, and Winship families, can trace their ancestory in Maine back to the early 18th century. Rev. Peter Thatcher Smith first built the Parson Smith House, located in Windham, Me., which then fell into the hands of the Andersons, whose son Edward Anderson married Smith's daughter, Lucy, ca. 1826. After this marriage, descendants of the Anderson family have lived in Bath, Lowell, Portland, and Newport, Me.</p>\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of Anderson family collection, ca. 1790-1942. (Maine Historical Society Library). WorldCat record id: 502156501</citation>\n         </biogHist>",
+     "id": "61583062",
+     "version": "9009344"
+    }
+   ],
+   "id": "61583061",
+   "version": "9009345",
+   "resource_count": "1"
+  },
+  {
+   "dataType": "Constellation",
+   "ark": "http://n2t.net/ark:/99166/w6f85fwj",
+   "entityType": {
+    "id": "699",
+    "term": "family",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+    "type": "entity_type"
+   },
+   "nameEntries": [
+    {
+     "dataType": "NameEntry",
+     "original": "Anderson family",
+     "preferenceScore": "1",
+     "id": "61943511",
+     "version": "9061589"
+    }
+   ],
+   "id": "61943509",
+   "version": "9061590",
+   "resource_count": "1"
+  },
+  {
+   "dataType": "Constellation",
+   "ark": "http://n2t.net/ark:/99166/w6dp33cr",
+   "entityType": {
+    "id": "699",
+    "term": "family",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+    "type": "entity_type"
+   },
+   "nameEntries": [
+    {
+     "dataType": "NameEntry",
+     "original": "Anderson family.",
+     "preferenceScore": "1",
+     "id": "61985838",
+     "version": "9068090"
+    }
+   ],
+   "id": "61985836",
+   "version": "9068091",
+   "resource_count": "1"
+  },
+  {
+   "dataType": "Constellation",
+   "ark": "http://n2t.net/ark:/99166/w60m1q8p",
+   "entityType": {
+    "id": "699",
+    "term": "family",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+    "type": "entity_type"
+   },
+   "nameEntries": [
+    {
+     "dataType": "NameEntry",
+     "original": "Anderson family.",
+     "preferenceScore": "1",
+     "id": "62022191",
+     "version": "9073430"
+    }
+   ],
+   "id": "62022189",
+   "version": "9073431",
+   "resource_count": "1"
+  }
+ ],
+ "aggregations": {
+  "subject": [
+   {
+    "term": "American literature--20th century",
+    "count": 2
+   },
+   {
+    "term": "Administration of estates",
+    "count": 1
+   },
+   {
+    "term": "Aeronautics",
+    "count": 1
+   },
+   {
+    "term": "Agriculture--Accounting",
+    "count": 1
+   },
+   {
+    "term": "Air pilots--Photographs",
+    "count": 1
+   },
+   {
+    "term": "American wit and humor",
+    "count": 1
+   },
+   {
+    "term": "Architecture, Domestic--New York (State)--Kings County",
+    "count": 1
+   },
+   {
+    "term": "Artists",
+    "count": 1
+   },
+   {
+    "term": "Biplanes--Photographs",
+    "count": 1
+   },
+   {
+    "term": "Business records",
+    "count": 1
+   }
+  ],
+  "occupation": [
+   {
+    "term": "Authors",
+    "count": 1
+   },
+   {
+    "term": "Bishops--United States",
+    "count": 1
+   },
+   {
+    "term": "Businessmen",
+    "count": 1
+   },
+   {
+    "term": "Carpenters--Ohio--Youngstown",
+    "count": 1
+   },
+   {
+    "term": "College students--New Jersey",
+    "count": 1
+   },
+   {
+    "term": "Engineers--Ohio--Youngstown",
+    "count": 1
+   },
+   {
+    "term": "Judges--New Jersey",
+    "count": 1
+   },
+   {
+    "term": "Lawyers--New Jersey--Newton",
+    "count": 1
+   },
+   {
+    "term": "Lawyers--Ohio--Youngstown",
+    "count": 1
+   },
+   {
+    "term": "Missionaries--India",
+    "count": 1
+   }
+  ],
+  "activity": []
+ },
+ "pagination": 15,
+ "page": 0,
+ "count": 5,
+ "term": "Anderson family",
+ "search_type": "default",
+ "timing": 100.37
+}

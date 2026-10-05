@@ -1,0 +1,1054 @@
+{
+ "result": "success",
+ "maybesame_count": 0,
+ "constellation": {
+  "dataType": "Constellation",
+  "status": "editable",
+  "ark": "http://n2t.net/ark:/99166/w61r7qfw",
+  "entityType": {
+   "id": "700",
+   "term": "person",
+   "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+   "type": "entity_type"
+  },
+  "languagesUsed": [
+   {
+    "dataType": "Language",
+    "language": {
+     "id": "130",
+     "term": "eng",
+     "type": "language_code",
+     "description": "English"
+    },
+    "script": {
+     "id": "586",
+     "term": "Latn",
+     "type": "script_code",
+     "description": "Latin"
+    },
+    "id": "29260899",
+    "version": "11251012"
+   }
+  ],
+  "nameEntries": [
+   {
+    "dataType": "NameEntry",
+    "original": "Tolkien, J.R.R. (John Ronald Reuel), 1892-1973",
+    "preferenceScore": "99",
+    "contributors": [
+     {
+      "dataType": "Contributor",
+      "type": {
+       "id": "7658",
+       "term": "authorizedForm",
+       "type": "name_type"
+      },
+      "rule": {
+       "id": "7660",
+       "term": "aacr2",
+       "type": "name_rule"
+      },
+      "id": "83090240",
+      "version": "11251008"
+     }
+    ],
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "Tolkien",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "29260901",
+      "version": "11251008"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "J.R.R.",
+      "order": "1",
+      "type": {
+       "id": "400224",
+       "term": "Forename",
+       "type": "name_component"
+      },
+      "id": "83090237",
+      "version": "11251008"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "John Ronald Reuel",
+      "order": "2",
+      "type": {
+       "id": "400226",
+       "term": "NameExpansion",
+       "type": "name_component"
+      },
+      "id": "83090238",
+      "version": "11251008"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "3",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090239",
+      "version": "11251008"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "script": {
+      "id": "586",
+      "term": "Latn",
+      "type": "script_code",
+      "description": "Latin"
+     },
+     "id": "83090241",
+     "version": "11251008"
+    },
+    "id": "29260900",
+    "version": "11251008"
+   },
+   {
+    "dataType": "NameEntry",
+    "original": "تولكين, جون رونالد, 1892-1973",
+    "preferenceScore": "0",
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "تولكين",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "29260942",
+      "version": "11251008"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "جون رونالد",
+      "order": "1",
+      "type": {
+       "id": "400224",
+       "term": "Forename",
+       "type": "name_component"
+      },
+      "id": "83090242",
+      "version": "11251008"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "2",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090243",
+      "version": "11251008"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "22",
+      "term": "ara",
+      "type": "language_code",
+      "description": "Arabic"
+     },
+     "script": {
+      "id": "511",
+      "term": "Arab",
+      "type": "script_code",
+      "description": "Arabic"
+     },
+     "id": "83090244",
+     "version": "11251008"
+    },
+    "id": "29260941",
+    "version": "11251008"
+   },
+   {
+    "dataType": "NameEntry",
+    "original": "톨킨, J. R. R, 1892-1973",
+    "preferenceScore": "0",
+    "contributors": [
+     {
+      "dataType": "Contributor",
+      "type": {
+       "id": "7657",
+       "term": "alternativeForm",
+       "type": "name_type"
+      },
+      "rule": {
+       "id": "7661",
+       "term": "rda",
+       "type": "name_rule"
+      },
+      "id": "83090247",
+      "version": "11251008"
+     }
+    ],
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "톨킨",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "29260984",
+      "version": "11251008"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "J. R. R",
+      "order": "1",
+      "type": {
+       "id": "400224",
+       "term": "Forename",
+       "type": "name_component"
+      },
+      "id": "83090245",
+      "version": "11251008"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "2",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090246",
+      "version": "11251008"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "243",
+      "term": "kor",
+      "type": "language_code",
+      "description": "Korean"
+     },
+     "script": {
+      "id": "579",
+      "term": "Kore",
+      "type": "script_code",
+      "description": "Korean (alias for Hangul + Han)"
+     },
+     "id": "83090248",
+     "version": "11251008"
+    },
+    "id": "29260983",
+    "version": "11251008"
+   },
+   {
+    "dataType": "NameEntry",
+    "original": "瀬田貞二, 1892-1973",
+    "preferenceScore": "0",
+    "contributors": [
+     {
+      "dataType": "Contributor",
+      "type": {
+       "id": "7657",
+       "term": "alternativeForm",
+       "type": "name_type"
+      },
+      "rule": {
+       "id": "7661",
+       "term": "rda",
+       "type": "name_rule"
+      },
+      "id": "83090250",
+      "version": "11251008"
+     }
+    ],
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "瀬田貞二",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "29261038",
+      "version": "11251008"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "1",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090249",
+      "version": "11251008"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "83",
+      "term": "chi",
+      "type": "language_code",
+      "description": "Chinese"
+     },
+     "script": {
+      "id": "597",
+      "term": "Mand",
+      "type": "script_code",
+      "description": "Mandaic, Mandaean"
+     },
+     "id": "83090251",
+     "version": "11251008"
+    },
+    "id": "29261037",
+    "version": "11251008"
+   },
+   {
+    "dataType": "NameEntry",
+    "original": "טאלקין, דשיי. ר. ר, 1892-1973",
+    "preferenceScore": "0",
+    "contributors": [
+     {
+      "dataType": "Contributor",
+      "type": {
+       "id": "7657",
+       "term": "alternativeForm",
+       "type": "name_type"
+      },
+      "rule": {
+       "id": "7661",
+       "term": "rda",
+       "type": "name_rule"
+      },
+      "id": "83090256",
+      "version": "11251009"
+     }
+    ],
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "טאלקין",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "83090253",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "דשיי. ר. ר",
+      "order": "1",
+      "type": {
+       "id": "400224",
+       "term": "Forename",
+       "type": "name_component"
+      },
+      "id": "83090254",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "2",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090255",
+      "version": "11251009"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "184",
+      "term": "heb",
+      "type": "language_code",
+      "description": "Hebrew"
+     },
+     "script": {
+      "id": "560",
+      "term": "Hebr",
+      "type": "script_code",
+      "description": "Hebrew"
+     },
+     "id": "83090257",
+     "version": "11251009"
+    },
+    "id": "83090252",
+    "version": "11251009"
+   },
+   {
+    "dataType": "NameEntry",
+    "original": "טולקין, ג׳.ר.ר, 1892-1973",
+    "preferenceScore": "0",
+    "contributors": [
+     {
+      "dataType": "Contributor",
+      "type": {
+       "id": "7657",
+       "term": "alternativeForm",
+       "type": "name_type"
+      },
+      "rule": {
+       "id": "7661",
+       "term": "rda",
+       "type": "name_rule"
+      },
+      "id": "83090262",
+      "version": "11251009"
+     }
+    ],
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "טולקין",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "83090259",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "ג׳.ר.ר",
+      "order": "1",
+      "type": {
+       "id": "400224",
+       "term": "Forename",
+       "type": "name_component"
+      },
+      "id": "83090260",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "2",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090261",
+      "version": "11251009"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "184",
+      "term": "heb",
+      "type": "language_code",
+      "description": "Hebrew"
+     },
+     "script": {
+      "id": "560",
+      "term": "Hebr",
+      "type": "script_code",
+      "description": "Hebrew"
+     },
+     "id": "83090263",
+     "version": "11251009"
+    },
+    "id": "83090258",
+    "version": "11251009"
+   },
+   {
+    "dataType": "NameEntry",
+    "original": "Ṭolḳin, Dzshey. R. R., 1892-1973",
+    "preferenceScore": "0",
+    "contributors": [
+     {
+      "dataType": "Contributor",
+      "type": {
+       "id": "7657",
+       "term": "alternativeForm",
+       "type": "name_type"
+      },
+      "rule": {
+       "id": "7661",
+       "term": "rda",
+       "type": "name_rule"
+      },
+      "id": "83090268",
+      "version": "11251009"
+     }
+    ],
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "Ṭolḳin",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "83090265",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "Dzshey. R. R.",
+      "order": "1",
+      "type": {
+       "id": "400224",
+       "term": "Forename",
+       "type": "name_component"
+      },
+      "id": "83090266",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "2",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090267",
+      "version": "11251009"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "script": {
+      "id": "586",
+      "term": "Latn",
+      "type": "script_code",
+      "description": "Latin"
+     },
+     "id": "83090269",
+     "version": "11251009"
+    },
+    "id": "83090264",
+    "version": "11251009"
+   },
+   {
+    "dataType": "NameEntry",
+    "original": "Tolkin, Dzhon Ronalʹd Ruėl, 1892-1973",
+    "preferenceScore": "0",
+    "contributors": [
+     {
+      "dataType": "Contributor",
+      "type": {
+       "id": "7657",
+       "term": "alternativeForm",
+       "type": "name_type"
+      },
+      "rule": {
+       "id": "7661",
+       "term": "rda",
+       "type": "name_rule"
+      },
+      "id": "83090274",
+      "version": "11251009"
+     }
+    ],
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "Tolkin",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "83090271",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "Dzhon Ronalʹd Ruėl",
+      "order": "1",
+      "type": {
+       "id": "400224",
+       "term": "Forename",
+       "type": "name_component"
+      },
+      "id": "83090272",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "2",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090273",
+      "version": "11251009"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "script": {
+      "id": "586",
+      "term": "Latn",
+      "type": "script_code",
+      "description": "Latin"
+     },
+     "id": "83090275",
+     "version": "11251009"
+    },
+    "id": "83090270",
+    "version": "11251009"
+   },
+   {
+    "dataType": "NameEntry",
+    "original": "Толкин, Дж. Р. Р. (Джон Рональд Руэл), 1892-1973",
+    "preferenceScore": "0",
+    "contributors": [
+     {
+      "dataType": "Contributor",
+      "type": {
+       "id": "7657",
+       "term": "alternativeForm",
+       "type": "name_type"
+      },
+      "rule": {
+       "id": "7660",
+       "term": "aacr2",
+       "type": "name_rule"
+      },
+      "id": "83090281",
+      "version": "11251009"
+     }
+    ],
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "Толкин",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "83090277",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "Дж. Р. Р.",
+      "order": "1",
+      "type": {
+       "id": "400224",
+       "term": "Forename",
+       "type": "name_component"
+      },
+      "id": "83090278",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "Джон Рональд Руэл",
+      "order": "2",
+      "type": {
+       "id": "400226",
+       "term": "NameExpansion",
+       "type": "name_component"
+      },
+      "id": "83090279",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "3",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090280",
+      "version": "11251009"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "380",
+      "term": "rus",
+      "type": "language_code",
+      "description": "Russian"
+     },
+     "script": {
+      "id": "536",
+      "term": "Cyrl",
+      "type": "script_code",
+      "description": "Cyrillic"
+     },
+     "id": "83090282",
+     "version": "11251009"
+    },
+    "id": "83090276",
+    "version": "11251009"
+   },
+   {
+    "dataType": "NameEntry",
+    "original": "Tolkin, Dzh. R. R. (Dzhon Ronalʹd Ruėl), 1892-1973",
+    "preferenceScore": "0",
+    "contributors": [
+     {
+      "dataType": "Contributor",
+      "type": {
+       "id": "7657",
+       "term": "alternativeForm",
+       "type": "name_type"
+      },
+      "rule": {
+       "id": "7660",
+       "term": "aacr2",
+       "type": "name_rule"
+      },
+      "id": "83090288",
+      "version": "11251009"
+     }
+    ],
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "Tolkin",
+      "order": "0",
+      "type": {
+       "id": "400223",
+       "term": "Surname",
+       "type": "name_component"
+      },
+      "id": "83090284",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "Dzh. R. R.",
+      "order": "1",
+      "type": {
+       "id": "400224",
+       "term": "Forename",
+       "type": "name_component"
+      },
+      "id": "83090285",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "Dzhon Ronalʹd Ruėl",
+      "order": "2",
+      "type": {
+       "id": "400226",
+       "term": "NameExpansion",
+       "type": "name_component"
+      },
+      "id": "83090286",
+      "version": "11251009"
+     },
+     {
+      "dataType": "NameComponent",
+      "text": "1892-1973",
+      "order": "3",
+      "type": {
+       "id": "400237",
+       "term": "Date",
+       "type": "name_component"
+      },
+      "id": "83090287",
+      "version": "11251009"
+     }
+    ],
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "script": {
+      "id": "586",
+      "term": "Latn",
+      "type": "script_code",
+      "description": "Latin"
+     },
+     "id": "83090289",
+     "version": "11251009"
+    },
+    "id": "83090283",
+    "version": "11251009"
+   }
+  ],
+  "occupations": [
+   {
+    "dataType": "Occupation",
+    "term": {
+     "id": "1700",
+     "term": "Authors",
+     "type": "occupation"
+    },
+    "id": "29261083",
+    "version": "4271345"
+   },
+   {
+    "dataType": "Occupation",
+    "term": {
+     "id": "5515",
+     "term": "Poets",
+     "type": "occupation"
+    },
+    "id": "83090290",
+    "version": "11251012"
+   },
+   {
+    "dataType": "Occupation",
+    "term": {
+     "id": "22889",
+     "term": "Professor",
+     "type": "occupation"
+    },
+    "id": "83090291",
+    "version": "11251012"
+   }
+  ],
+  "biogHists": [
+   {
+    "dataType": "BiogHist",
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "script": {
+      "id": "586",
+      "term": "Latn",
+      "type": "script_code",
+      "description": "Latin"
+     },
+     "id": "29260865",
+     "version": "4271345"
+    },
+    "text": "<biogHist><p xmlns=\"urn:isbn:1-931666-33-4\">John Ronald Reuel Tolkien was an author, scholar, and educator. Born in South Africa, he was educated at Oxford, where he nourished a love of philology and myth. During a distinguished career as professor of English at Oxford, he provided renditions of Middle English poems such as Sir Gawain and the Green Knight and Sir Orfeo. Acting on his desire to provide a cohesive mythology for England comparable to that of Greece, he developed the world of Middle-Earth, based on Anglic philology. His most famous work is the popular Lord of the Rings trilogy.</p>\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of J.R.R. Tolkien letters to W.G. Harding, 1926-1927. (Pennsylvania State University Libraries). WorldCat record id: 57358475</citation>\n         \n            <p xmlns=\"urn:isbn:1-931666-33-4\">Professor of English at Oxford University.</p>\n            <p xmlns=\"urn:isbn:1-931666-33-4\">Epithet: writer and university professor</p>\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">British Library Archives and Manuscripts Catalogue : Person : Description : ark:/81055/vdc_100000000386.0x000219</citation>\n         </biogHist>",
+    "id": "29260864",
+    "version": "4271345"
+   }
+  ],
+  "sameAsRelations": [
+   {
+    "dataType": "SameAs",
+    "type": {
+     "id": "28225",
+     "term": "sameAs",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+     "type": "record_type"
+    },
+    "text": "Tolkien, J.R.R. (John Ronald Reuel), 1892-1973",
+    "uri": "https://viaf.org/viaf/95218067",
+    "id": "29261115",
+    "version": "4271345"
+   },
+   {
+    "dataType": "SameAs",
+    "type": {
+     "id": "28225",
+     "term": "sameAs",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+     "type": "record_type"
+    },
+    "uri": "https://www.worldcat.org/identities/lccn-n79005673",
+    "id": "29261116",
+    "version": "4271345"
+   },
+   {
+    "dataType": "SameAs",
+    "type": {
+     "id": "28225",
+     "term": "sameAs",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+     "type": "record_type"
+    },
+    "uri": "https://id.loc.gov/authorities/n79005673",
+    "id": "29261117",
+    "version": "4271345"
+   },
+   {
+    "dataType": "SameAs",
+    "type": {
+     "id": "28225",
+     "term": "sameAs",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#sameAs",
+     "type": "record_type"
+    },
+    "uri": "https://www.wikidata.org/entity/Q892",
+    "id": "29261118",
+    "version": "4271345"
+   }
+  ],
+  "places": [
+   {
+    "dataType": "Place",
+    "type": {
+     "id": "705",
+     "term": "AssociatedPlace",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+     "type": "place_type"
+    },
+    "role": {
+     "id": "400241",
+     "term": "Residence",
+     "type": "place_role"
+    },
+    "geoplace": {
+     "id": "13583",
+     "uri": "http://www.geonames.org/2635167",
+     "name": "United Kingdom of Great Britain and Northern Ireland",
+     "latitude": "54.7584400",
+     "longitude": "-2.6953100",
+     "administrationCode": "00",
+     "countryCode": "GB"
+    },
+    "confirmed": true,
+    "id": "83090292",
+    "version": "11251012"
+   },
+   {
+    "dataType": "Place",
+    "type": {
+     "id": "705",
+     "term": "AssociatedPlace",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+     "type": "place_type"
+    },
+    "role": {
+     "id": "400238",
+     "term": "Birth",
+     "type": "place_role"
+    },
+    "geoplace": {
+     "id": "10987",
+     "uri": "http://www.geonames.org/953987",
+     "name": "Republic of South Africa",
+     "latitude": "-29.0000000",
+     "longitude": "24.0000000",
+     "administrationCode": "00",
+     "countryCode": "ZA"
+    },
+    "confirmed": true,
+    "id": "83090293",
+    "version": "11251012"
+   }
+  ],
+  "subjects": [
+   {
+    "dataType": "Subject",
+    "term": {
+     "id": "1709",
+     "term": "Authors, English",
+     "type": "subject"
+    },
+    "id": "29261119",
+    "version": "4271345"
+   },
+   {
+    "dataType": "Subject",
+    "term": {
+     "id": "149129",
+     "term": "Fantasy fiction, English",
+     "type": "subject"
+    },
+    "id": "29261120",
+    "version": "4271345"
+   },
+   {
+    "dataType": "Subject",
+    "term": {
+     "id": "236587",
+     "term": "Middle Earth (Imaginary place)",
+     "type": "subject"
+    },
+    "id": "29261121",
+    "version": "4271345"
+   }
+  ],
+  "id": "29260863",
+  "version": "11257301",
+  "dates": [
+   {
+    "dataType": "SNACDate",
+    "fromDate": "1892-01-03",
+    "fromDateOriginal": "1892-01-03",
+    "fromType": {
+     "id": "689",
+     "term": "Birth",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Birth",
+     "type": "date_type"
+    },
+    "toDate": "1973-09-02",
+    "toDateOriginal": "1973-09-02",
+    "toType": {
+     "id": "690",
+     "term": "Death",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Death",
+     "type": "date_type"
+    },
+    "isRange": true,
+    "id": "29260866",
+    "version": "4271345"
+   }
+  ]
+ },
+ "timing": 222.57
+}

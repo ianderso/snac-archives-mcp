@@ -1,0 +1,44 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ianderso/snac-archives-mcp",
+  "title": "SNAC Archives",
+  "description": "Find which archive holds the papers: SNAC's index of archival collections, plus ArchiveGrid links.",
+  "repository": {
+    "url": "https://github.com/ianderso/snac-archives-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "snac-archives-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "SNAC_API_URL",
+          "description": "The SNAC REST API endpoint.",
+          "default": "https://api.snaccooperative.org/"
+        },
+        {
+          "name": "SNAC_CACHE_DIR",
+          "description": "Directory for the on-disk response cache.",
+          "default": "~/.cache/snac-archives-mcp"
+        },
+        {
+          "name": "SNAC_TIMEOUT",
+          "description": "HTTP timeout in seconds. Holdings lists get 120 s of their own.",
+          "default": "60"
+        },
+        {
+          "name": "SNAC_CONTACT",
+          "description": "An email address or URL appended to the User-Agent, so SNAC can reach whoever runs the server."
+        }
+      ]
+    }
+  ]
+}

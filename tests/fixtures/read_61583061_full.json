@@ -1,0 +1,645 @@
+{
+ "result": "success",
+ "maybesame_count": 0,
+ "constellation": {
+  "dataType": "Constellation",
+  "status": "editable",
+  "ark": "http://n2t.net/ark:/99166/w6wn08wd",
+  "entityType": {
+   "id": "699",
+   "term": "family",
+   "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+   "type": "entity_type"
+  },
+  "sources": [
+   {
+    "dataType": "Source",
+    "type": {
+     "id": "28296",
+     "term": "simple",
+     "type": "source_type"
+    },
+    "uri": "http://www.worldcat.org/oclc/502156501",
+    "id": "61583065",
+    "version": "9009344"
+   }
+  ],
+  "nameEntries": [
+   {
+    "dataType": "NameEntry",
+    "original": "Anderson family.",
+    "preferenceScore": "1",
+    "components": [
+     {
+      "dataType": "NameComponent",
+      "text": "Anderson family.",
+      "order": "0",
+      "type": {
+       "id": "400228",
+       "term": "Name",
+       "type": "name_component"
+      },
+      "id": "61583067",
+      "version": "9009344"
+     }
+    ],
+    "id": "61583066",
+    "version": "9009344",
+    "snacControlMetadata": [
+     {
+      "dataType": "SNACControlMetadata",
+      "sourceData": "[\n    {\n        \"contributor\": \"WorldCat\",\n        \"form\": \"authorizedForm\"\n    }\n]",
+      "note": "Contributors from initial SNAC EAC-CPF ingest",
+      "id": "81841405",
+      "version": "9009344"
+     }
+    ]
+   }
+  ],
+  "biogHists": [
+   {
+    "dataType": "BiogHist",
+    "language": {
+     "dataType": "Language",
+     "language": {
+      "id": "130",
+      "term": "eng",
+      "type": "language_code",
+      "description": "English"
+     },
+     "script": {
+      "id": "586",
+      "term": "Latn",
+      "type": "script_code",
+      "description": "Latin"
+     },
+     "id": "61583063",
+     "version": "9009344"
+    },
+    "text": "<biogHist><p xmlns=\"urn:isbn:1-931666-33-4\">The Andersons, as well as their relatives including the Berry, Norwood, Burton, Thomes, Goodell, Hill, Codman, Smith, and Winship families, can trace their ancestory in Maine back to the early 18th century. Rev. Peter Thatcher Smith first built the Parson Smith House, located in Windham, Me., which then fell into the hands of the Andersons, whose son Edward Anderson married Smith's daughter, Lucy, ca. 1826. After this marriage, descendants of the Anderson family have lived in Bath, Lowell, Portland, and Newport, Me.</p>\n            <citation xmlns=\"urn:isbn:1-931666-33-4\">From the description of Anderson family collection, ca. 1790-1942. (Maine Historical Society Library). WorldCat record id: 502156501</citation>\n         </biogHist>",
+    "id": "61583062",
+    "version": "9009344"
+   }
+  ],
+  "relations": [
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "22194483",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6xd1p6p",
+    "targetEntityType": {
+     "id": "700",
+     "term": "person",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28243",
+     "term": "correspondedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#correspondedWith",
+     "type": "relation_type"
+    },
+    "content": "Anderson, Lucy Smith, 1845-1918",
+    "id": "61583073",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "11542603",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6kq6xmv",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Berry family.",
+    "id": "61583075",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "13457420",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6jq9wgg",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Burton family.",
+    "id": "61583077",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "56213500",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6g8297j",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Codman family.",
+    "id": "61583081",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "55529934",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6ww7mj4",
+    "targetEntityType": {
+     "id": "700",
+     "term": "person",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Person",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Edward VII, King of Great Britain, 1841-1910.",
+    "id": "61583074",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "3789498",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6qc8zz9",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Goodall family.",
+    "id": "61583079",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "25639846",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w63g3k4j",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Goodell family.",
+    "id": "61583085",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "71912488",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6jx79dv",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Hill family.",
+    "id": "61583080",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "1960261",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6qw2h1q",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Norwood family.",
+    "id": "61583076",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "76393100",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6ng9fr6",
+    "targetEntityType": {
+     "id": "698",
+     "term": "corporateBody",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Parson Smith House (Windham, Me.)",
+    "id": "61583083",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "52536741",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6g24wbm",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Smith family.",
+    "id": "61583082",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "72931591",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6hz0847",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Thames family.",
+    "id": "61583078",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "16515990",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w62s2n6p",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Thomes family.",
+    "id": "61583084",
+    "version": "9009344"
+   },
+   {
+    "dataType": "ConstellationRelation",
+    "sourceConstellation": "61583061",
+    "targetConstellation": "46208881",
+    "sourceArkID": "http://n2t.net/ark:/99166/w6wn08wd",
+    "targetArkID": "http://n2t.net/ark:/99166/w6vf5twj",
+    "targetEntityType": {
+     "id": "699",
+     "term": "family",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Family",
+     "type": "entity_type"
+    },
+    "type": {
+     "id": "28234",
+     "term": "associatedWith",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#associatedWith",
+     "type": "relation_type"
+    },
+    "content": "Winship family.",
+    "id": "61583086",
+    "version": "9009344"
+   }
+  ],
+  "resourceRelations": [
+   {
+    "dataType": "ResourceRelation",
+    "resource": {
+     "dataType": "Resource",
+     "documentType": {
+      "id": "696",
+      "term": "ArchivalResource",
+      "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+      "type": "document_type"
+     },
+     "link": "http://www.worldcat.org/oclc/502156501",
+     "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:502156501</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-RU9</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Anderson family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Anderson family collection, ca. 1790-1942.</title>\n                  </titleInfo>\n                  <abstract>Numerous correspondence, documents, and writing samples from various Anderson family members, including many to and from Lucy Anderson, as well as Anderson family descendants. </abstract>\n                  <name>\n                     <namePart>Maine Historical Society Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+     "title": "Anderson family collection, ca. 1790-1942.",
+     "abstract": "Numerous correspondence, documents, and writing samples from various Anderson family members, including many to and from Lucy Anderson, as well as Anderson family descendants. ",
+     "extent": "1 linear ft.",
+     "displayEntry": "Anderson family. Anderson family collection, ca. 1790-1942.",
+     "originationNames": [
+      {
+       "dataType": "OriginationName",
+       "name": "Anderson family.",
+       "id": "9911463",
+       "version": "7622582"
+      }
+     ],
+     "repository": {
+      "dataType": "Constellation",
+      "ark": "http://n2t.net/ark:/99166/w67j2bh4",
+      "entityType": {
+       "id": "698",
+       "term": "corporateBody",
+       "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+       "type": "entity_type"
+      },
+      "nameEntries": [
+       {
+        "dataType": "NameEntry",
+        "original": "Maine Historical Society Library",
+        "preferenceScore": "99",
+        "id": "87967577",
+        "version": "12148462"
+       }
+      ],
+      "places": [
+       {
+        "dataType": "Place",
+        "original": "Maine Historical Society Library",
+        "type": {
+         "id": "400242",
+         "term": "Address",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+         "type": "place_type"
+        },
+        "address": [
+         {
+          "dataType": "AddressLine",
+          "text": "485 Congress St",
+          "order": "0",
+          "type": {
+           "id": "400243",
+           "term": "Unspecified",
+           "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+           "type": "address_part"
+          },
+          "id": "87967591",
+          "version": "12148462"
+         },
+         {
+          "dataType": "AddressLine",
+          "text": "Portland",
+          "order": "1",
+          "type": {
+           "id": "400243",
+           "term": "Unspecified",
+           "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+           "type": "address_part"
+          },
+          "id": "87967592",
+          "version": "12148462"
+         },
+         {
+          "dataType": "AddressLine",
+          "text": "US-ME",
+          "order": "2",
+          "type": {
+           "id": "400243",
+           "term": "Unspecified",
+           "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+           "type": "address_part"
+          },
+          "id": "87967593",
+          "version": "12148462"
+         },
+         {
+          "dataType": "AddressLine",
+          "text": "04101",
+          "order": "3",
+          "type": {
+           "id": "400243",
+           "term": "Unspecified",
+           "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+           "type": "address_part"
+          },
+          "id": "87967594",
+          "version": "12148462"
+         },
+         {
+          "dataType": "AddressLine",
+          "text": "US",
+          "order": "4",
+          "type": {
+           "id": "400243",
+           "term": "Unspecified",
+           "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+           "type": "address_part"
+          },
+          "id": "87967595",
+          "version": "12148462"
+         }
+        ],
+        "geoplace": {
+         "id": "16491",
+         "name": "Maine Historical Society Library",
+         "latitude": "43.6568000",
+         "longitude": "-70.2602000"
+        },
+        "confirmed": true,
+        "id": "87967590",
+        "version": "12148462"
+       },
+       {
+        "dataType": "Place",
+        "original": "Maine--Portland",
+        "type": {
+         "id": "705",
+         "term": "AssociatedPlace",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+         "type": "place_type"
+        },
+        "id": "87967600",
+        "version": "12148462"
+       },
+       {
+        "dataType": "Place",
+        "original": "Portland (Me.)",
+        "type": {
+         "id": "705",
+         "term": "AssociatedPlace",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+         "type": "place_type"
+        },
+        "id": "87967596",
+        "version": "12148462"
+       },
+       {
+        "dataType": "Place",
+        "original": "Maine--Portland",
+        "type": {
+         "id": "705",
+         "term": "AssociatedPlace",
+         "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+         "type": "place_type"
+        },
+        "id": "87967598",
+        "version": "12148462"
+       }
+      ],
+      "id": "87967572",
+      "version": "12148464"
+     },
+     "id": "7622582",
+     "version": "7622582"
+    },
+    "role": {
+     "id": "692",
+     "term": "creatorOf",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#creatorOf",
+     "type": "document_role"
+    },
+    "content": "Anderson family. Anderson family collection, ca. 1790-1942.",
+    "id": "61583087",
+    "version": "9009344"
+   }
+  ],
+  "places": [
+   {
+    "dataType": "Place",
+    "original": "Maine--Windham",
+    "type": {
+     "id": "705",
+     "term": "AssociatedPlace",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace",
+     "type": "place_type"
+    },
+    "id": "61583070",
+    "version": "9009344",
+    "snacControlMetadata": [
+     {
+      "dataType": "SNACControlMetadata",
+      "sourceData": "Maine--Windham",
+      "note": "Parsed from SNAC EAC-CPF.",
+      "id": "61583071",
+      "version": "9009344"
+     }
+    ]
+   }
+  ],
+  "subjects": [
+   {
+    "dataType": "Subject",
+    "term": {
+     "id": "7558",
+     "term": "Women",
+     "type": "subject"
+    },
+    "id": "61583072",
+    "version": "9009344"
+   }
+  ],
+  "id": "61583061",
+  "version": "9009345",
+  "dates": [
+   {
+    "dataType": "SNACDate",
+    "fromDate": "1790",
+    "fromDateOriginal": "active approximately 1790",
+    "fromType": {
+     "id": "688",
+     "term": "Active",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+     "type": "date_type"
+    },
+    "fromRange": {
+     "notBefore": "1787",
+     "notAfter": "1793"
+    },
+    "toDate": "1942",
+    "toDateOriginal": "active 1942",
+    "toType": {
+     "id": "688",
+     "term": "Active",
+     "uri": "http://socialarchive.iath.virginia.edu/control/term#Active",
+     "type": "date_type"
+    },
+    "isRange": true,
+    "id": "61583064",
+    "version": "9009344"
+   }
+  ]
+ },
+ "timing": 836.6
+}

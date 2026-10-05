@@ -1,0 +1,138 @@
+{
+ "resource": {
+  "dataType": "Resource",
+  "documentType": {
+   "id": "696",
+   "term": "ArchivalResource",
+   "uri": "http://socialarchive.iath.virginia.edu/control/term#ArchivalResource",
+   "type": "document_type"
+  },
+  "link": "http://www.worldcat.org/oclc/28048621",
+  "source": "<objectXMLWrap>\n               <mods xmlns=\"http://www.loc.gov/mods/v3\">\n                  <recordInfo>\n                     <recordOrigin>WorldCat:28048621</recordOrigin>\n                     <recordContentSource>ISIL:OCLC-NGB</recordContentSource>\n                  </recordInfo>\n                  <name>\n                     <namePart>Anderson family.</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/cre\">Creator</roleTerm>\n                     </role>\n                  </name>\n                  <titleInfo>\n                     <title>Wilder and Anderson family papers, 1837-1938 [manuscript].</title>\n                  </titleInfo>\n                  <abstract>Chiefly lettrs of members of the Wilder and Anderson families, concerning family affairs. Items include an 1823 ship manifest transporting a slave from New York to Savannah, Ga. Early letters are to and from Wilder family members, including Joseph J. Wilder, who, in 1863, described Darmstat, Germany, where he was studying. Letters written in 1889-1890 are chiefly from Joseph J. Wilder in Savannah to his wife Georgia and daughter Page, who were travelling in Europe. From 1893 to 1895, there are many courtship letters to Page from J. Randolph Anderson, lawyer of Savannah, who was chiefly involved in railroad law. A few of these letters discuss the business climate in Savannah and Democratic Party politics. Letters from the period 1914-1928 are from Page and J. Randolph's children at schoool: from Pagie, mainly about her social life, 1915-1918, at St. Timothy's School in Catonsville, Md.; and, 1919-1924, from Joe at Woodberry Forest School in Virginia, where he had a difficult time both socially and academically, but much success on the football field. After Pagie's 1921 marriage, she wrote to her parents about her life, which was largely spent resolving servant and decorating problems at her Chestnut Hill home; travelling in Europe with her husband; and raising her three children. Letters, show that, in 1924, Joe matriculated at the University of Virginia, where he played football. He also spent several summers travelling in Europe. By 1929, he was working and living in Savannah. </abstract>\n                  <name>\n                     <namePart>Oceanside Free Library</namePart>\n                     <role>\n                        <roleTerm valueURI=\"http://id.loc.gov/vocabulary/relators/rps\">Repository</roleTerm>\n                     </role>\n                  </name>\n               </mods>\n            </objectXMLWrap>",
+  "title": "Wilder and Anderson family papers, 1837-1938 [manuscript].",
+  "abstract": "Chiefly lettrs of members of the Wilder and Anderson families, concerning family affairs. Items include an 1823 ship manifest transporting a slave from New York to Savannah, Ga. Early letters are to and from Wilder family members, including Joseph J. Wilder, who, in 1863, described Darmstat, Germany, where he was studying. Letters written in 1889-1890 are chiefly from Joseph J. Wilder in Savannah to his wife Georgia and daughter Page, who were travelling in Europe. From 1893 to 1895, there are many courtship letters to Page from J. Randolph Anderson, lawyer of Savannah, who was chiefly involved in railroad law. A few of these letters discuss the business climate in Savannah and Democratic Party politics. Letters from the period 1914-1928 are from Page and J. Randolph's children at schoool: from Pagie, mainly about her social life, 1915-1918, at St. Timothy's School in Catonsville, Md.; and, 1919-1924, from Joe at Woodberry Forest School in Virginia, where he had a difficult time both socially and academically, but much success on the football field. After Pagie's 1921 marriage, she wrote to her parents about her life, which was largely spent resolving servant and decorating problems at her Chestnut Hill home; travelling in Europe with her husband; and raising her three children. Letters, show that, in 1924, Joe matriculated at the University of Virginia, where he played football. He also spent several summers travelling in Europe. By 1929, he was working and living in Savannah. ",
+  "extent": "1,600 items (4.0 linear ft.).",
+  "displayEntry": "Wilder and Anderson family papers, 1837-1938 [manuscript].",
+  "originationNames": [
+   {
+    "dataType": "OriginationName",
+    "name": "Anderson family.",
+    "id": "9327892",
+    "version": "7252207"
+   }
+  ],
+  "repository": {
+   "dataType": "Constellation",
+   "ark": "http://n2t.net/ark:/99166/w6xj0ds0",
+   "entityType": {
+    "id": "698",
+    "term": "corporateBody",
+    "uri": "http://socialarchive.iath.virginia.edu/control/term#CorporateBody",
+    "type": "entity_type"
+   },
+   "nameEntries": [
+    {
+     "dataType": "NameEntry",
+     "original": "University of North Carolina at Chapel Hill",
+     "preferenceScore": "99",
+     "id": "76787444",
+     "version": "11234205"
+    }
+   ],
+   "places": [
+    {
+     "dataType": "Place",
+     "original": "University of North Carolina at Chapel Hill",
+     "type": {
+      "id": "400242",
+      "term": "Address",
+      "uri": "http://socialarchive.iath.virginia.edu/control/term#Address",
+      "type": "place_type"
+     },
+     "address": [
+      {
+       "dataType": "AddressLine",
+       "text": "Davis Library, CB#3914, 208 Raleigh St.",
+       "order": "0",
+       "type": {
+        "id": "400243",
+        "term": "Unspecified",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+        "type": "address_part"
+       },
+       "id": "76787449",
+       "version": "11234205"
+      },
+      {
+       "dataType": "AddressLine",
+       "text": "Chapel Hill",
+       "order": "1",
+       "type": {
+        "id": "400243",
+        "term": "Unspecified",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+        "type": "address_part"
+       },
+       "id": "76787450",
+       "version": "11234205"
+      },
+      {
+       "dataType": "AddressLine",
+       "text": "US-NC",
+       "order": "2",
+       "type": {
+        "id": "400243",
+        "term": "Unspecified",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+        "type": "address_part"
+       },
+       "id": "76787451",
+       "version": "11234205"
+      },
+      {
+       "dataType": "AddressLine",
+       "text": "27514-8890",
+       "order": "3",
+       "type": {
+        "id": "400243",
+        "term": "Unspecified",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+        "type": "address_part"
+       },
+       "id": "76787452",
+       "version": "11234205"
+      },
+      {
+       "dataType": "AddressLine",
+       "text": "US",
+       "order": "4",
+       "type": {
+        "id": "400243",
+        "term": "Unspecified",
+        "uri": "http://socialarchive.iath.virginia.edu/control/term#Unspecified",
+        "type": "address_part"
+       },
+       "id": "76787453",
+       "version": "11234205"
+      }
+     ],
+     "geoplace": {
+      "id": "15097",
+      "name": "University of North Carolina at Chapel Hill",
+      "latitude": "35.9369000",
+      "longitude": "-79.0397000"
+     },
+     "confirmed": true,
+     "id": "76787448",
+     "version": "11234205"
+    }
+   ],
+   "id": "76787443",
+   "version": "11363791"
+  },
+  "id": "7252207",
+  "version": "7252207"
+ },
+ "related_constellations": [],
+ "timing": 50.8
+}

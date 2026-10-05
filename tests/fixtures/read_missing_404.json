@@ -1,0 +1,7 @@
+{
+ "error": {
+  "type": "Input Error",
+  "message": "Constellation with id 1 does not have a published version."
+ },
+ "timing": 24.89
+}

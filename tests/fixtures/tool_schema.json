@@ -1,0 +1,54 @@
+{
+  "archivegrid_search_link": [
+    "archive",
+    "event",
+    "exclude",
+    "family",
+    "has_links",
+    "keywords",
+    "location",
+    "oclc_number",
+    "organization",
+    "person",
+    "place",
+    "source_type",
+    "title",
+    "topic"
+  ],
+  "cache_status": [],
+  "collections_in_common": [
+    "first",
+    "refresh",
+    "second"
+  ],
+  "get_collection": [
+    "refresh",
+    "resource_id"
+  ],
+  "get_name": [
+    "detail",
+    "name_id",
+    "refresh"
+  ],
+  "repository_holdings": [
+    "count",
+    "page",
+    "refresh",
+    "repository",
+    "title_contains"
+  ],
+  "search_collections": [
+    "count",
+    "page",
+    "refresh",
+    "title_words"
+  ],
+  "search_names": [
+    "count",
+    "entity_type",
+    "name",
+    "page",
+    "refresh",
+    "search_biographies"
+  ]
+}
